@@ -4,6 +4,7 @@ logging:
     com.mkyong: DEBUG
 email: test@mkyong.com
 thread-pool: 10
+port: 8012
 app:
   menus:
     - title: Home
