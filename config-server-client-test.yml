@@ -5,6 +5,7 @@ logging:
 email: test@mkyong.com
 thread-pool: 10
 port: 8012
+msg: Hello world - this is from config server yml
 app:
   menus:
     - title: Home
